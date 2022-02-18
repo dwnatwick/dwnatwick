@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 
 <br>
-I am Dwayne - a life long learner with a passion for security and infrastructure within the public cloud, hybrid cloud, and multi-cloud. 
-I am interested in Cloud architecture and security solutions that empower the community.
+I am Dwayne (He/Him) - an Azure MVP, MCT Regional Lead, CISSP, and a life long learner with a passion for security and infrastructure within the public cloud, hybrid cloud, and multi-cloud. 
+I am interested in cloud architecture and security solutions that empower the community.
 
 ---
 
-🏆 I've 35+ years of experience in software development and system design.
+🏆 I've 35+ years of experience in design, architecture, training content development, and product management.
 
-📝 I am blogging at #CloudMarathoner https://captainhyperscaler.com
+📝 I am blogging at #CaptainHyperscaler https://captainhyperscaler.com
 
 📝 You can find me on LinkedIn https://www.linkedin.com/in/dnatwick
 
-💬 Ask me things like: Azure, Architecture, Azure Policy, Cloud Security, DevOps, and more........
+💬 Ask me things like: Azure, Microsoft 365, Architecture, Azure Policy, Cloud Security, and more........
 
 🤔 Check my Twitter: https://twitter.com/DwayneNcloud
 
