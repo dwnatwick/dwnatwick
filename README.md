@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <br>
-I am Dwayne - a life long learner with a passion to build simple solutions. 
-I am interested in Cloud architecture and automation solutions that empower the community.
+I am Dwayne - a life long learner with a passion for security and infrastructure within the public cloud, hybrid cloud, and multi-cloud. 
+I am interested in Cloud architecture and security solutions that empower the community.
 
 ---
 
