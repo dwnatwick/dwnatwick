@@ -22,7 +22,7 @@ I am interested in cloud architecture and security solutions that empower the co
 
 ---
 
-🏆 I've 35+ years of experience in design, architecture, training content development, and product management.
+🏆 I have 35+ years of experience in design, architecture, training content development, and product management.
 
 📝 I am blogging at #CaptainHyperscaler https://captainhyperscaler.com
 
