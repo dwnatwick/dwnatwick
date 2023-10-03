@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <br>
-I am Dwayne (He/Him) - an Azure MVP, MCT Regional Lead, CISSP, and a life long learner with a passion for security and infrastructure within the public cloud, hybrid cloud, and multi-cloud. 
+I am Dwayne (He/Him) - an Azure + Security MVP, MCT Regional Lead, ISC2 Authorized Trainer certified CISSP|CGRC|CCSP|CC, AWS Security + Identity Community Builder, and a life long learner with a passion for security and infrastructure within the public cloud, hybrid cloud, and multi-cloud. 
 I am interested in cloud architecture and security solutions that empower the community.
 
 ---
