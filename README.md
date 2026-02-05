@@ -30,8 +30,6 @@ I am interested in cloud architecture and security solutions that empower the co
 
 💬 Ask me things like: Azure, Microsoft 365, Architecture, Azure Policy, Cloud Security, and more........
 
-🤔 Check my Twitter: https://twitter.com/DwayneNcloud
-
 📫 Email me: dwnatwick@outlook.com 
 
 
